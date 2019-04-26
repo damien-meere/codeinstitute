@@ -2,12 +2,6 @@
 
 Welcome to my initial CI site. I hope you find this content informative.
 
-## this is  H2
+## Project Description
 
-### this is a H3
-
-#### this is H4
-
-##### this is H5
-
-###### this is H6
+This project is about practicing basic HTML and CSS skills, and involved basic page layouts and accessing remote content from across the internet.
